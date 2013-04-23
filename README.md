@@ -1,6 +1,6 @@
 str8ts solver with constraint programming
 ======
-written in SWI-Prolog using the clpfd library
+written in [SWI-Prolog](http://www.swi-prolog.org/) using the [clpfd library](http://www.swi-prolog.org/man/clpfd.html)
 
 more about str8ts puzzles and their rules at [http://www.str8ts.com/](http://www.str8ts.com/)
 
